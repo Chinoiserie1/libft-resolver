@@ -1,0 +1,4 @@
+resolve/.build/
+*.o
+libft.a
+.DS_Store
